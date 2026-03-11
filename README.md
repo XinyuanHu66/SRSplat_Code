@@ -3,7 +3,6 @@
   <h1 align="center">SRSplat: Feed-Forward Super-Resolution Gaussian Splatting from Sparse Multi-View Images</h1>
   <h3 align="center"><a href="https://arxiv.org/abs/2511.12040">Paper</a> | <a href="https://srsplat.github.io">Project Page</a> </h3>
 
-<!-- https://github.com/XinyuanHu66/SRSplat_Code/blob/main/assets/SRSplatdemo.mp4 -->
 
 ## News
 <ul>
