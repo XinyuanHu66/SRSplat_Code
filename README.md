@@ -4,6 +4,11 @@
   <h3 align="center"><a href="https://arxiv.org/abs/2511.12040">Paper</a> | <a href="https://srsplat.github.io">Project Page</a> </h3>
 
 
+
+https://github.com/user-attachments/assets/c097549c-65c2-4236-8efc-134938a8dc70
+
+
+
 ## News
 <ul>
 <li><b>11/03/26 Update:</b> Check out Feng's <a href="https://xiangfeng66.github.io/SR3R/">SR3R [CVPR '26]</a>, which predicts HR 3DGS representations from sparse LR views via a learned mapping network. </li>
