@@ -42,10 +42,13 @@ We use the same training datasets as pixelSplat and MVSplat. Below we quote pixe
 
 ## BibTeX
 ```bash
-@article{hu2025srsplat,
+@inproceedings{hu2026srsplat,
   title={SRSplat: Feed-Forward Super-Resolution Gaussian Splatting from Sparse Multi-View Images},
   author={Hu, Xinyuan and Shi, Changyue and Yang, Chuxiao and Chen, Minghao and Ding, Jiajun and Wei, Tao and Wei, Chen and Yu, Zhou and Tan, Min},
-  journal={arXiv preprint arXiv:2511.12040},
-  year={2025}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={6},
+  pages={4950--4958},
+  year={2026}
 }
 ```
